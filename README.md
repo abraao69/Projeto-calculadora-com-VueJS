@@ -16,10 +16,10 @@ Projeto desenvolvido durante o curso Web Moderno com JavaScript + Projetos dispo
   <li>CSS</li>
 </ul>
 
-### Maiores informações: :pencil:
+### Maiores informações: 
 
 O repositório das atividades desenvolvidas no curso pode ser acessado <a href="https://github.com/abraao69/curso-web-moderno-cod3r">aqui</a>
 
 <hr>
 
-Projeto desenvolvido com horas a frente do :computer: por Christopher H. Schott
+Projeto desenvolvido com horas a frente do :computer: por Abraão Martins
